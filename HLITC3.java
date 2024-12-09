@@ -1,6 +1,6 @@
 package corejava;
 
-public class Class1 {
+public class HLITC3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
